@@ -45,3 +45,5 @@ With more time, I would organize the code into separate folders, improve input v
 ## Use of AI
 
 I used **ChatGPT** as a learning and development assistant. It helped provide an initial code example, review my PHP code for errors and readability, explain ISO 8601 dates and ISO weeks (which were new to me), suggest small code improvements and troubleshoot problems. It also helped create the `.htaccess` routing and `tests.php`, and draft this README. Because of the two-hour limit, I used AI assistance for testing and documentation tasks while prioritizing understanding and implementing the required backend logic. I reviewed the code and can explain how it works.
+
+**Development time:** 03 November 2026, 20:15–22:10 (1 hour 55 minutes).
